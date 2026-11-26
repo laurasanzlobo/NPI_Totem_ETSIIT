@@ -1,0 +1,14 @@
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencias y logs
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.env
